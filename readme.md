@@ -6,4 +6,4 @@ Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/caroline-zoulou
 
 
 ### **Languages and Tools**
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,c,matlab,mysql,bash,html,css,git,docker,redis,linux,ubuntu,arduino,raspberrypi,eclipse,vscode,anaconda,emacs,opencv,pytorch,tensorflow&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,c,matlab,mysql,bash,html,css,git,docker,redis,linux,ubuntu,arduino,raspberrypi,eclipse,vscode,anaconda&theme=light)](https://skillicons.dev)
